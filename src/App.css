@@ -66,3 +66,12 @@ button:hover {
 	text-align: center;
 	padding-top: 10px;
 }
+.autor {
+	background-color: rgb(107, 107, 107);
+	position: absolute;
+	color: white;
+	padding: 5px;
+
+	right: 0;
+	bottom: 0;
+}

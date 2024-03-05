@@ -108,6 +108,7 @@ const App = () => {
 			<div className='count_container'>
 				<h1>{count}</h1>
 			</div>
+			<p className='autor'>Проект Мулюкова Амира</p>
 		</div>
 	)
 }
